@@ -1,2 +1,10 @@
 theme: minima
 title: Ryon Riley's Blog
+author: Ryon Riley
+
+# Site Footer
+footer:
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: https://github.com/ryonriley
