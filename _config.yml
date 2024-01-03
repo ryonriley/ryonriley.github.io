@@ -2,6 +2,13 @@ theme: minima
 title: Ryon Riley
 description: A blog about technology, engineering, and general life topics.
 
+header_pages:
+  - about.md
+  - contact.md
+
 minima:
+  skin: dark
+  
+  # Generate social links in footer.
   social_links:
-    - { platform: linkedin,  user_url: "https://linkedin.com/ryonriley" }
+    - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ryonriley" }
