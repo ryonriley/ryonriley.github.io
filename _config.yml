@@ -5,7 +5,6 @@ description: A blog about technology, engineering, and general life topics.
 
 header_pages:
   - about.md
-  - contact.md
 
 minima:
   skin: dark
@@ -13,3 +12,4 @@ minima:
   # Generate social links in footer.
   social_links:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ryonriley" }
+    - { platform: github,         user_url: "https://github.com/ryonriley" }
