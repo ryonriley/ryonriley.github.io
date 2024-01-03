@@ -1,4 +1,5 @@
-theme: minima
+#theme: minima
+remote_theme: jekyll/minima
 title: Ryon Riley
 description: A blog about technology, engineering, and general life topics.
 
