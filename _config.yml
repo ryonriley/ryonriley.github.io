@@ -4,4 +4,4 @@ description: A blog about technology, engineering, and general life topics.
 
 minima:
   social_links:
-    linkedin: ryonriley
+    - { platform: linkedin,  user_url: "https://linkedin.com/ryonriley" }
