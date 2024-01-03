@@ -1,7 +1,6 @@
 theme: minima
 title: Ryon Riley
 description: A blog about technology, engineering, and general life topics.
-show_excerpts: true
 
 minima:
   social_links:
