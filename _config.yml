@@ -13,6 +13,8 @@ plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
 
+google_analytics: G-Y1990BXQYK
+
 minima:
   skin: dark
   
