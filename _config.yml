@@ -23,4 +23,4 @@ minima:
     - { platform: linkedin,       user_url: "https://www.linkedin.com/in/ryonriley" }
     - { platform: github,         user_url: "https://github.com/ryonriley" }
     - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/3277423/rynoknows" }
-    - { platform: slack,  user_url: "https://macadmins.slack.com/team/U011GHLT51T" }
+    - { platform: slack,          user_url: "https://macadmins.slack.com/team/U011GHLT51T" }
